@@ -1,0 +1,6 @@
+@motor_rider_backend_HostAddress = http://localhost:5024
+
+GET {{motor_rider_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
